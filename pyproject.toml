@@ -3,7 +3,7 @@ name = "random-quote-generator-py"
 packages = [
     { include = "random_quote_generator" },
 ]
-version = "0.1.0"
+version = "0.1.2"
 description = "Random quate generator"
 authors = ["Manuel Pita <mpita1984@gmail.com>"]
 homepage = "https://random-quote-generator-py.readthedocs.io/en/latest/"
