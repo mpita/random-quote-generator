@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "random-quote-generator"
+name = "random-quote-generator-py"
 packages = [
     { include = "random_quote_generator" },
 ]
