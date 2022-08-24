@@ -1,5 +1,8 @@
 [tool.poetry]
 name = "random-quote-generator"
+packages = [
+    { include = "random_quote_generator" },
+]
 version = "0.1.0"
 description = "Random quate generator"
 authors = ["Manuel Pita <mpita1984@gmail.com>"]
